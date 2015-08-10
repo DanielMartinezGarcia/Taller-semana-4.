@@ -30,7 +30,6 @@ no lo es.
 11. el as me permite detectar errores en tiempo de ejecucion. 
 
 12. si lo puedo hacer, por que puedo almacenar la direccion de un objeto square.
-
 13. va a imprimir un 4 por que el Base. permite acceder a los metodos originales de la clase Square que son 4 lados.
 
 C1: las clases private no permite acceder dentro las variables que las contiene mientras que el public si los permite.
