@@ -24,3 +24,13 @@ este esta en un polygon dentro del heap; el base y el size estan dentro de una c
 
 8. Hay errores en tiempo de ejecucion, el error es que el compilador es que al hacer el cast el lo entiende como un square pero
 no lo es.
+
+10. si compila
+
+11. el as me permite detectar errores en tiempo de ejecucion. 
+
+12. si lo puedo hacer, por que puedo almacenar la direccion de un objeto square.
+
+13. va a imprimir un 4 por que el Base. permite acceder a los metodos originales de la clase Square que son 4 lados.
+
+
