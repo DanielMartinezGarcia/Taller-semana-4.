@@ -22,4 +22,5 @@ este esta en un polygon dentro del heap; el base y el size estan dentro de una c
 
 7. si se imprime por que se realiza un cast para que entienda que es un square.
 
-8. 
+8. Hay errores en tiempo de ejecucion, el error es que el compilador es que al hacer el cast el lo entiende como un square pero
+no lo es.
