@@ -14,3 +14,12 @@ valor que son size y number.
 Tiene un miembro en el heap que se llama base  y otro size, el primero almacena la direccion de un nomberofsides en donde 
 este esta en un polygon dentro del heap; el base y el size estan dentro de una clase square.
 
+4. no puedo acceder a los miembros del square al ser una restriccion del programa.
+
+5. si, por que se esta haciendo un cast en la palabra polygon para que el compilador lo entienda como un square
+
+6. no, por que la herencia funciona en un solo sentido, no todos los polygons son squares.
+
+7. si se imprime por que se realiza un cast para que entienda que es un square.
+
+8. 
