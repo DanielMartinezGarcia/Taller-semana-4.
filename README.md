@@ -35,6 +35,12 @@ no lo es.
 
 C1: las clases private no permite acceder dentro las variables que las contiene mientras que el public si los permite.
 
+14. si por que el square es el polygon y puede acceder a el.
+15. partial: para poder definir una clase por pedazos, definir una parte en un archivo y la otra en otro archivo.
+16. no necesita.
+
+
+
 
 
 
